@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+wordcloud
+spacy
+scikit-learn
+joblib
+fastapi
+uvicorn
+pydantic
+streamlit
+python-multipart
+pyngrok
+vaderSentiment
